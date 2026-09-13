@@ -241,26 +241,29 @@ customer-churn-analysis/
 
 ## 📸 Dashboard Preview
 
-### Overview
+### 1. Overview
 
 ![Overview](Images/Overview.png)
 
-### Churn Analysis
-
-![Churn Analysis](Images/Churn%20Analysis.png)
-
-### Demographics Profile
+### 2. Demographics Profile
 
 ![Demographics Profile](Images/Demographics%20Profile.png)
 
-### Services Analysis
+### 3. Churn Analysis
+
+![Churn Analysis](Images/Churn%20Analysis.png)
+
+### 4. Services Analysis
 
 ![Services Analysis](Images/Services%20Analysis.png)
 
-### Key Insights
+### 5. High Risk
 
-![Key Insight](Images/Key%20Insight.png)
+![High Risk](Images/High%20Risk.png)
 
+### 6. Key Insights
+
+![Key Insights](Images/Key%20Insight.png)
 ---
 
 ## 🚀 Conclusion
