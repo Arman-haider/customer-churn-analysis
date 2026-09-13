@@ -91,6 +91,7 @@ Interactive Dashboard
 Business Insights
      ↓
 Retention Recommendations
+```
 ---
 
 ## 🧹 Data Cleaning & Preparation
@@ -235,6 +236,7 @@ customer-churn-analysis/
 │   └── customer_churn.sql
 │
 └── README.md
+```
 ---
 
 ## 📸 Dashboard Preview
