@@ -257,7 +257,7 @@ customer-churn-analysis/
 
 ![Services Analysis](Images/Services%20Analysis.png)
 
-### 5. High Risk
+### 5. High Risk Customers
 
 ![High Risk](Images/High%20Risk.png)
 
