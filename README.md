@@ -276,6 +276,6 @@ The analysis focuses on identifying customer segments associated with higher chu
 
 ## 👤 Author
 
-**Arman Haider Zaidi**
+**Arman Haider**
 
 Aspiring Data Analyst | SQL | Python | Pandas | Power BI | Excel
