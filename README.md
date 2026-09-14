@@ -278,6 +278,4 @@ The analysis focuses on identifying customer segments associated with higher chu
 
 **Arman Haider**
 
-**Arman Haider**
-
 **Data Analyst | SQL | Python | Pandas | Power BI | Excel**
